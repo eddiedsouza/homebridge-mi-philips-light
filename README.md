@@ -10,6 +10,7 @@ Thanks for [nfarina](https://github.com/nfarina)(the author of [homebridge](http
 ![](https://raw.githubusercontent.com/YinHangCode/homebridge-mi-philips-light/master/images/SmartBulb.jpg)
 ![](https://raw.githubusercontent.com/YinHangCode/homebridge-mi-philips-light/master/images/TableLamp2.jpg)
 ![](https://raw.githubusercontent.com/YinHangCode/homebridge-mi-philips-light/master/images/CeilingLamp.jpg)
+![](https://github.com/eddiedsouza/homebridge-mi-philips-light/blob/master/images/xiaomi-mijia-philips--adjustable-color-temperature-downlight-led-bulbs.jpg)
 
 ## Supported Devices
 1.MiPhilipsSmartBulb(米家飞利浦智睿球泡灯)   
